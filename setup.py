@@ -37,7 +37,7 @@ setup(
         'Topic :: Utilities',
     ],
     install_requires=[
-        "yarl~=1.2.6",
-        "aiohttp~=3.3.2"
+        "yarl>=1.6.3",
+        "aiohttp>=3.7.4"
     ],
 )
